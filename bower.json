@@ -1,0 +1,21 @@
+{
+  "name": "particles.js",
+  "main": "particles.js",
+  "homepage": "",
+  "authors": [
+    ""
+  ],
+  "description": "",
+  "keywords": [
+    "particle",
+    "particles"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
